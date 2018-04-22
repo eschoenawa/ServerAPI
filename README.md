@@ -1,2 +1,2 @@
 # ServerAPI by eschoenawa
-//TODO Fill README.md with great tutorial
+This project is discontinued. It was a small idea to make building small socket-server-client-applications easy but at this point I don't remember what I did here or how it worked and the small parts I do remember don't make me proud. At some point I may come back to this and make it great but for now I advise against using this. Feel free however to take inspiration or fork this project to continue working on it.
